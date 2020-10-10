@@ -5,7 +5,7 @@ t= input("enter the time in minutes")
 
 while int(mins) !=int(t):
 
-     time.sleep(10)
+     time.sleep(60)
      
      mins = mins+1
      
